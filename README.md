@@ -1,1 +1,1 @@
-# Flasher2.0
+# Trust Wallet Flasher2.0
